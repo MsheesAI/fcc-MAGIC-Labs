@@ -96,4 +96,7 @@ fcc-MAGIC-Labs/
 ## Credits
 
 - Dataset: MAGIC Gamma Telescope, UCI Machine Learning Repository.
-- Maintained by [MsheesAI](https://github.com/MsheesAI).
+- Worked by [MsheesAI](https://github.com/MsheesAI).
+
+  # Warning
+  if any error occur then report me
